@@ -10,8 +10,7 @@ Understand how to define and use functions.
 - Local variables and scope
 
 ## Reading
-Chapter 3 & 6 of *Think Python*.
-
+Chapter 3 & 6 of [*Think Python*](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 ## Exercises
 1. Write a function `greet(name)` that prints “Hello, [name]”.
 2. Create a function `add(a, b)` that returns the sum.
