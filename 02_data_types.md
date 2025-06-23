@@ -10,7 +10,7 @@ Learn about different data types and how to identify them.
 - Type conversion
 
 ## Reading
-See Chapter 1.5 of *Think Python*.
+See Chapter 1.5 of [*Think Python*](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 ## Exercises
 1. Print the type of `42`, `3.14`, and `'hello'`.
