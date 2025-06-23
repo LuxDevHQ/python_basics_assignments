@@ -10,7 +10,7 @@ Master `for` and `while` loops in Python.
 - Loop control: `break`, `continue`
 
 ## Reading
-Chapter 7 of *Think Python*.
+Chapter 7 of [*Think Python*](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 ## Exercises
 1. Use a `for` loop to print numbers from 1 to 10.
