@@ -11,7 +11,7 @@ Understand how to declare, assign, and use variables in Python.
 - Using `print()` to output variable values
 
 ## Reading
-Refer to Chapter 2.1–2.2 of *Think Python*. [https://greenteapress.com/thinkpython2/thinkpython2.pdf]
+Refer to Chapter 2.1–2.2 of (*Think Python*)[https://greenteapress.com/thinkpython2/thinkpython2.pdf]
 
 ## Exercises
 1. Declare a variable named `age` and assign your age to it.
