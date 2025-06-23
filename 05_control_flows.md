@@ -10,7 +10,7 @@ Use `if`, `elif`, `else`, and logical operators.
 - Nesting and chaining conditions
 
 ## Reading
-Chapter 5 of *Think Python*.
+Chapter 5 of [*Think Python*](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 ## Exercises
 1. Write a program that checks if a number is positive, negative, or zero.
