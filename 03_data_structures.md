@@ -10,7 +10,7 @@ Learn how to use basic Python data structures.
 - Use cases of each structure
 
 ## Reading
-Chapters 10–12 & 19.5 of *Think Python*.
+Chapters 10–12 & 19.5 of [*Think Python*](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 ## Exercises
 1. Create a list of 5 fruits and print the third fruit.
